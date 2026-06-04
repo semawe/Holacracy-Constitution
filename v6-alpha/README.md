@@ -18,7 +18,7 @@ Chaque langue contient le même jeu de trois documents.
 
 | Fichier | Description | Tier |
 |---|---|---|
-| `HC-v6-principes.md` | Déclaration de principes fondateurs / Declaration of Principles | Transversal |
+| `HC-v6-principes.md` (fr) · `HC-v6-principles.md` (en) | Déclaration de principes / Declaration of Principles | Transversal |
 | `HC-v6-micro.md` | Constitution version micro / Micro | Tier 1 (~3 pages) |
 | `HC-v6-lite.md` | Constitution version lite / Lite | Tier 2 (~7 pages) |
 
@@ -29,7 +29,7 @@ v6-alpha/
 │   ├── HC-v6-micro.md
 │   └── HC-v6-lite.md
 └── en/   ← version anglaise
-    ├── HC-v6-principes.md
+    ├── HC-v6-principles.md
     ├── HC-v6-micro.md
     └── HC-v6-lite.md
 ```
