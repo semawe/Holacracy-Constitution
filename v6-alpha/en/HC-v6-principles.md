@@ -34,7 +34,7 @@ We evolve the structure around people, rather than trying to change people to ma
 
 ## 07. We change the rules through the rules, not through power
 
-We commit to changing our shared framework only through the processes that the framework itself provides. No authority, not even that of the Ratifiers, may amend the rules of the game by unilateral decision. The system belongs to all who practice it.
+We commit to changing our shared framework only through the processes that the framework itself provides. As long as this framework is in force, no one may set it aside or bypass it by unilateral decision. Those who adopted it retain the power to amend or repeal it: that is a founding act, exercised in writing and in the open, never an act of management. The system belongs to all who practice it.
 
 In that same spirit, decisions that evolve a circle's structure cannot be blocked by personal preferences. An objection is valid only if it points to real harm to the organization's capacity to move forward.
 

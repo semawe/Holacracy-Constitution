@@ -1,4 +1,4 @@
-# Holacracy Constitution v6 [Alpha] — Tier 2 (Lite)
+# Holacracy Constitution v6 [Alpha] — Lite tier
 
 *This Constitution distributes authority across Roles rather than concentrating it in a hierarchy of people. Each Partner holds real authority within their boundaries and acts on their own judgment, without having to ask permission. This is what we call self-management: not the absence of structure, but more structure, more clearly defined, within which each person is fully autonomous.*
 
@@ -10,11 +10,11 @@
 
 ## Preamble
 
-*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority — without, of course, overriding the legal and regulatory frameworks that apply.*
+*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority — without overriding the legal and regulatory frameworks that apply.*
 
 The **"Ratifiers"** hereby adopt this **"Constitution"** as the formal authority structure of the **"Organization"**. In so doing, they cede their power to govern and run the Organization into the rules it defines, except for any powers they lack the authority to delegate.
 
-The Ratifiers or their successors may amend or repeal this Constitution in writing, relying on whatever authority allowed them to adopt it.
+The Ratifiers or their successors may amend or repeal this Constitution in writing, relying on whatever authority allowed them to adopt it. That power operates from outside the framework: as long as this Constitution is in force, it does not permit breaking its rules.
 
 Any pre-existing rules and systems remain in full force, but may not be expanded or modified except through the processes of this Constitution. They lose all legitimacy as soon as those processes produce something that replaces or contradicts them.
 
@@ -71,16 +71,16 @@ The Anchor Circle has no Circle Lead, unless a Policy says otherwise.
 A Circle Lead may:
 
 - assign the Circle's Roles to one or more willing people, and revoke those assignments at any time;
-- focus an assignment on a specific context, called a Focus. In that case the assignment is treated as a separate Role for that context;
 - automatically cover the Circle's unfilled Roles;
-- define **"Strategies"** to guide prioritization in the Circle;
-- redirect to another Role in the Circle any external reference pointing to the Circle or one of its Roles, without this counting as a change to Governance.
+- define **"Strategies"** to guide prioritization in the Circle.
 
 A Circle may add Accountabilities or Domains to the Circle Lead Role and later remove them. Such additions automatically apply, recursively, to every Sub-Circle. A Circle may also remove an authority or responsibility from the Circle Lead by placing it on another Role, which removes it from the Circle Lead; but it may not remove the Circle Lead Role itself.
 
 ### 1.5 The Circle's structural roles
 
-*Intent note: three elected roles exist in any Circle that needs them to function. This section groups them together because their stance matters at least as much as their Accountabilities. All three serve the Circle, not any one person in particular.*
+*Intent note: two structural roles support any Circle that needs them to function. This section groups them together because their stance matters at least as much as their Accountabilities. Both serve the Circle, not any one person in particular.*
+
+The Facilitator and the Secretary are appointed by the Circle Lead. Upon request of any Circle Member, the Role is filled through the Integrative Election Process (section 5.4), for a term set by the election. A Role filled by election may only be refilled or removed by a new election.
 
 #### Facilitator
 
@@ -110,22 +110,6 @@ The Secretary:
 - keeps the Circle's official records up to date (Roles, Policies, Strategies) and controls that Domain;
 - rules, on request, on conflicts of interpretation of this Constitution;
 - may strike a Governance decision that violates this Constitution.
-
-A Circle may add Accountabilities or Domains to this Role, but may not amend its Purpose nor what the Constitution assigns it.
-
-#### Circle Rep
-
-*Stance: the Circle Rep processes only the Tensions that the Circle could not resolve through its own Governance and that need to be addressed in the Super-Circle. It is neither a permanent spokesperson nor a duplicate of the Circle Lead. They step in when something exceeds what the Circle can resolve on its own, not on everything that leaves the Circle.*
-
-Purpose: "Tensions relevant to process in a broader Circle channeled out and resolved".
-
-The Circle Rep:
-
-- listens to the Tensions sensed by Circle Members that the Circle could not resolve through its own Governance;
-- discerns those that it is relevant and useful to carry to the Super-Circle;
-- carries those Tensions into the Super-Circle's Governance Process to remove the constraints on their Circle.
-
-The Circle Rep is elected through the Integrative Election Process from among the Circle Members. They become a Member of the Super-Circle with the same authority to represent as a Circle Lead. A person serving as Circle Lead may not also serve as Circle Rep.
 
 A Circle may add Accountabilities or Domains to this Role, but may not amend its Purpose nor what the Constitution assigns it.
 
@@ -199,7 +183,7 @@ As a Role Lead, you have the authority to take any action or make any decision t
 
 **Policies and Domains.** You may not break the Policies of your Role or of any Circle that contains it. You may act freely on your own Domains. To impact a Domain you don't control, you must get permission from whoever controls it — either directly, or by announcing your intent and allowing a reasonable time for anyone to object. No objection within that time counts as permission for that specific action.
 
-**Spending resources.** You may not spend the Organization's money, nor materially use or commit any of its assets (equipment, data, rights, reputation, or time), without prior authorization from the Role that controls those resources. To get this authorization, announce your intent in writing with the reason and the Role concerned, and allow a reasonable time. If nothing blocks it within that time, you are authorized to spend within the stated terms. The Circle or Role that controls the money may set another method for organizing and controlling resource spending by writing a dedicated policy.
+**Spending resources.** You may not spend the Organization's money, nor materially use or commit any of its assets (equipment, data, rights, reputation, or time), without prior authorization from the Role that controls those resources. To get this authorization, announce your intent in writing and allow a reasonable time: if nothing blocks it within that time, you are authorized to spend within the stated terms. The Circle or Role that controls the money may set another method for organizing and controlling resource spending by writing a dedicated policy.
 
 **Individual Initiative.** You may act beyond your authority or break Policies if all of the following are true:
 
@@ -222,15 +206,11 @@ To change a Circle's Governance (creating, amending, or removing a Role or a Pol
 
 Only the **"Circle Members"** take part in its Governance Process — that is, the Partners who serve as Role Lead for a Role within it.
 
-### 5.2 Circle Rep
-
-Any Circle Member may request the election of a **"Circle Rep"** to represent their Circle within its Super-Circle, alongside the Circle Lead. The Circle Rep is elected through the Integrative Election Process. They become a Member of the broader Circle with the same authority to represent as a Circle Lead.
-
-### 5.3 Policies
+### 5.2 Policies
 
 A Policy may only apply to the Circle's Roles, to grant or constrain an authority, or to regulate access to a Domain. It applies only to the Circle that decides it, unless it explicitly states that it also applies to Sub-Circles. A Policy may also change a default rule of this Constitution, only where the Constitution explicitly allows it, and in that case it is recursive in the Sub-Circles.
 
-### 5.4 Integrative Decision-Making Process
+### 5.3 Integrative Decision-Making Process
 
 Any Circle Member may initiate a change to Governance by sharing a **"Proposal"** in writing with all the other Members, through a channel approved by the Secretary, or in a **"Governance Meeting"** convened by the Secretary.
 
@@ -254,18 +234,19 @@ Once all valid Objections are integrated, or if there are none, the Proposal is 
 
 A default facilitation guide describes this process in detail. This process may not be modified.
 
-### 5.5 Integrative Election Process
+### 5.4 Integrative Election Process
 
-Any Member may at any time request an election to choose a Facilitator, a Secretary, or a Circle Rep, and the process is as follows:
+Any Member may at any time request an election to choose a Facilitator or a Secretary. The election is conducted by the Facilitator or, failing that, by the Circle Lead. The process is as follows:
 
-1. each Member privately names in writing the candidate who seems best suited, giving their own name and their reason;
-2. the nominations are shared with all Members;
-3. each Member may change their nomination, explaining the reason;
-4. the Facilitator proposes the candidate with the most nominations. In the event of a tie, they may propose the candidate who nominated themselves, propose the incumbent, or draw lots;
-5. Members may raise Objections. In that case, the Facilitator opens a discussion to resolve them, or returns to the previous step to propose another candidate.
+1. whoever conducts the election describes the Role and sets the term of office;
+2. each Member privately names in writing the candidate who seems best suited, giving their own name and their reason;
+3. the nominations are shared with all Members;
+4. each Member may change their nomination, explaining the reason;
+5. whoever conducts the election proposes the candidate with the most nominations. In the event of a tie, they may propose the candidate who nominated themselves, propose the incumbent, or draw lots;
+6. Members may raise Objections. In that case, whoever conducts the election opens a discussion to resolve them, or returns to the previous step to propose another candidate.
 
 A default facilitation guide describes this process in detail. This process may not be modified.
 
-### 5.6 Process Breakdown
+### 5.5 Process Breakdown
 
 A **"Process Breakdown"** occurs when a Circle adopts a pattern of behavior that violates this Constitution. The Facilitator of the Circle or of the Super-Circle may declare one. The Facilitator of the Super-Circle then gains the authority to restore due process, including by taking over as Facilitator or Secretary, or by assigning an additional Circle Lead whose decisions prevail over those of the other Circle Leads.

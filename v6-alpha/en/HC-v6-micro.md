@@ -1,10 +1,10 @@
-# Holacracy Constitution v6 [Alpha] — Tier 1 (Micro)
+# Holacracy Constitution v6 [Alpha] — Micro tier
 
 ## Preamble
 
-*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority — without, of course, overriding the legal and regulatory frameworks that apply.*
+*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority — without overriding the legal and regulatory frameworks that apply.*
 
-The **"Ratifiers"** adopt this **"Constitution"** as the formal authority structure of the **"Organization"**. In so doing, they cede their power to govern and run the Organization into the rules it defines, except for any powers they lack the authority to delegate. The Ratifiers or their successors may amend or repeal this Constitution in writing.
+The **"Ratifiers"** adopt this **"Constitution"** as the formal authority structure of the **"Organization"**. In so doing, they cede their power to govern and run the Organization into the rules it defines, except for any powers they lack the authority to delegate. The Ratifiers or their successors may amend or repeal this Constitution in writing. That power operates from outside the framework: as long as this Constitution is in force, it does not permit breaking its rules.
 
 Any pre-existing rules and systems remain in force, but may only be expanded or modified through the processes of this Constitution. They lose all legitimacy as soon as those processes produce something that replaces them.
 
@@ -16,7 +16,7 @@ The Organization may designate **"Partners"** to take part in its governance and
 
 *Intent note: Article 1 builds an authority structure based on a structured description of roles rather than on people and conventional org charts. It sets out two principles at once: authority is distributed across all roles and circles, and within each role the Role Lead holds full and complete authority over it. The system is at once distributed and autocratic.*
 
-A **"Role"** is a unit of organizational work that a person can fill on behalf of the Organization. Whoever fills a Role is its **"Role Lead"**. A **"Circle"** is a Role broken down into further Roles. The Roles and Policies within a Circle make up its **"Governance"**.
+A **"Role"** is a unit of organizational work that a person can fill on behalf of the Organization. Whoever fills a Role is its **"Role Lead"**. A **"Circle"** is the inside of a Role, broken down into further Roles. The Roles and Policies within a Circle make up its **"Governance"**.
 
 A Role or a Circle is identified by a name and described by one or more of the following:
 
@@ -27,15 +27,13 @@ A Role or a Circle is identified by a name and described by one or more of the f
 
 As a Role Lead, you are responsible for sensing **"Tensions"** (the gaps between the current reality and the ideal potential of your Role) and taking initiative to reduce them, for clarifying and tracking your work in writing, and for choosing and carrying out whatever adds the most value to the Organization.
 
-The broadest Circle, which holds the Purpose of the whole Organization, is its **"Anchor Circle"**. Every Circle has the following default roles:
+The broadest Circle, which holds the Purpose of the whole Organization, is its **"Anchor Circle"**. Every Circle has a **"Circle Lead"**: serving as a Role Lead also means serving as the Circle Lead within that Role's internal Circle. The Circle Lead assigns Roles to willing people and may revoke those assignments, automatically covers any unfilled Roles, and may define **"Strategies"** to guide prioritization. The Anchor Circle has no Circle Lead, unless a Policy says otherwise.
 
-**Circle Lead**: serving as a Role Lead also means serving as the Circle Lead within that Role's internal Circle. The Circle Lead assigns Roles to willing people and may revoke those assignments, automatically covers any unfilled Roles, and may define **"Strategies"** to guide prioritization. The Anchor Circle has no Circle Lead, unless a Policy says otherwise.
+Any Circle may also appoint the following roles:
 
 **Facilitator**. Purpose: "Circle governance and operational practices aligned with the Constitution".
 
 **Secretary**. Purpose: "Stabilize the Circle's constitutionally-required records and meetings".
-
-**Circle Rep**. Purpose: "Tensions relevant to process in a broader Circle channeled out and resolved". Elected through the Integrative Election Process from among the Circle Members.
 
 A Circle may add Accountabilities or Domains to these roles, but may not amend their Purpose nor anything the Constitution assigns them.
 
@@ -69,7 +67,7 @@ A default process is available in the official facilitation guide. Each Circle m
 
 *Intent note: Article 4 defines what a Role Lead may do without asking permission. This is the operational heart of the system: everyone acts within their own boundaries without answering to a hierarchy. But this freedom has clear limits: the Policies, others' Domains, and money. The article also provides for the emergency case, where acting fast takes precedence over honoring the framework, provided you take responsibility for the consequences.*
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role's Purpose and Accountabilities, as long as you don't break a Policy of this Constitution or of any Circle that contains your Role. To impact a Domain you don't control, you must get permission from whoever controls it. You may not spend money or materially commit any of the Organization's assets without prior authorization from the Role that controls them.
+As a Role Lead, you have the authority to take any action or make any decision to enact your Role's Purpose and Accountabilities, as long as you don't break a Policy of this Constitution or of any Circle that contains your Role. To impact a Domain you don't control, you must get permission from whoever controls it. You may not spend money or materially commit any of the Organization's assets without prior authorization from the Role that controls them. To get permission or authorization, you may announce your intent in writing and allow a reasonable time: no objection within that time counts as authorization for the announced action.
 
 You may take **"Individual Initiative"** by acting beyond your authority or breaking Policies if all of the following are true:
 
@@ -86,10 +84,10 @@ In that case, you must immediately inform the affected Role Leads and refrain fr
 
 *Intent note: Article 5 defines how the structure evolves. Any change to Governance (creating a Role, amending a Policy, electing a Facilitator or Secretary) goes through a single process: integrative decision-making. This process is neither consensus nor majority vote. It seeks to integrate every valid objection without blocking action. The process is held asynchronously or in a governance meeting.*
 
-To change a Circle's Governance (creating, amending, or removing a Role or a Policy, or holding an election), you must use the **"Integrative Decision-Making Process"** described in the facilitation guide. It may be held asynchronously or in a **"Governance Meeting"**. Only the **"Circle Members"** (Partners serving as Role Lead for a Role in that Circle) take part.
+To change a Circle's Governance (creating, amending, or removing a Role or a Policy, or holding an election), the Circle Members use the **"Integrative Decision-Making Process"** described in the facilitation guide. It may be held asynchronously or in a **"Governance Meeting"**. Only the **"Circle Members"** (Partners serving as Role Lead for a Role in that Circle) take part.
 
 A **"Policy"** is a grant or a constraint on the authority of Roles, or an operating provision specific to the Circle.
 
-The Facilitator, the Secretary, and the Circle Rep are elected through the **"Integrative Election Process"** described in the facilitation guide.
+The Facilitator and the Secretary are appointed by the Circle Lead. Upon request of any Member, they are elected through the **"Integrative Election Process"** described in the facilitation guide; the election then prevails over the appointment.
 
-The Integrative Decision-Making Process and the Integrative Election Process may not be modified.
+The Integrative Decision-Making Process and the Integrative Election Process may not be modified. The official facilitation guide describes these processes; in case of discrepancy, this Constitution prevails.

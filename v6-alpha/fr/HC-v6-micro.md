@@ -1,10 +1,10 @@
-# Constitution Holacracy v6 [Alpha] — Strate 1 (micro)
+# Constitution Holacracy v6 [Alpha] — tier micro
 
 ## Préambule
 
-*Note d'intention : Le préambule règle la question fondamentale de qui a le dernier mot dans cette organisation. Cette Constitution indique que ce sont les règles elles-mêmes, pas ceux qui les ont adoptées. En ratifiant, ils transfèrent volontairement leur autorité dans un cadre partagé. Et pour tous ceux qui rejoignent ensuite l'organisation, ce cadre est la seule source d'autorité légitime, sans contredire évidemment les contextes légaux ou normatifs en vigueur.*
+*Note d'intention : Le préambule règle la question fondamentale de qui a le dernier mot dans cette organisation. Cette Constitution indique que ce sont les règles elles-mêmes, pas ceux qui les ont adoptées. En ratifiant, ils transfèrent volontairement leur autorité dans un cadre partagé. Et pour tous ceux qui rejoignent ensuite l'organisation, ce cadre est la seule source d'autorité légitime, sans contredire les contextes légaux ou normatifs en vigueur.*
 
-Les **«Ratificateurs»** adoptent la présente **«Constitution»** comme cadre d'autorité officielle de **«l'Organisation»**. Ce faisant, ils transfèrent leur pouvoir de gouvernance et d'exploitation dans les règles qu'elle définit, à l'exception de tout pouvoir qu'ils ne peuvent pas déléguer. Les Ratificateurs ou leurs successeurs peuvent amender ou abroger cette Constitution par écrit.
+Les **«Ratificateurs»** adoptent la présente **«Constitution»** comme cadre d'autorité officielle de **«l'Organisation»**. Ce faisant, ils transfèrent leur pouvoir de gouvernance et d'exploitation dans les règles qu'elle définit, à l'exception de tout pouvoir qu'ils ne peuvent pas déléguer. Les Ratificateurs ou leurs successeurs peuvent amender ou abroger cette Constitution par écrit. Ce pouvoir s'exerce depuis l'extérieur du cadre : tant que cette Constitution est en vigueur, il ne permet pas d'en enfreindre les règles.
 
 Les règles et fonctionnements préexistants restent en vigueur, mais ne peuvent être étendus ou modifiés qu'à travers les processus de cette Constitution. Ils perdent toute légitimité dès que ces processus produisent quelque chose qui les remplace.
 
@@ -16,7 +16,7 @@ L'Organisation peut désigner des **«Partenaires»** pour participer à sa gouv
 
 *Note d'intention : L'article 1 crée une structure d'autorité fondée sur une description structurée des rôles plutôt que sur des personnes et des organigrammes conventionnels. Il pose simultanément deux principes : l'autorité est distribuée à travers l'ensemble des rôles et des cercles, et à l'intérieur de chaque rôle, le Leader de Rôle dispose d'une autorité pleine et entière sur son périmètre. Le système est à la fois distribué et autocratique.*
 
-Un **«Rôle»** est une unité de travail organisationnel qu'une personne peut assumer au nom de l'Organisation. La personne qui assume un Rôle est son **«Leader de Rôle»**. Un **«Cercle»** est un Rôle décomposé en d'autres Rôles. L'ensemble des Rôles et Règles d'un Cercle constitue sa **«Gouvernance»**.
+Un **«Rôle»** est une unité de travail organisationnel qu'une personne peut assumer au nom de l'Organisation. La personne qui assume un Rôle est son **«Leader de Rôle»**. Un **«Cercle»** est l'intérieur d'un Rôle, décomposé en d'autres Rôles. L'ensemble des Rôles et Règles d'un Cercle constitue sa **«Gouvernance»**.
 
 Un Rôle ou un Cercle est identifié par un nom et est décrit par tout ou partie des éléments suivants :
 
@@ -27,15 +27,13 @@ Un Rôle ou un Cercle est identifié par un nom et est décrit par tout ou parti
 
 En tant que Leader de Rôle, vous êtes responsable de détecter les **«Tensions»** (écarts entre la réalité et le potentiel idéal de votre Rôle) et de prendre des initiatives pour les réduire, de clarifier et suivre votre travail par écrit, et de choisir et réaliser ce qui crée le plus de valeur pour l'Organisation.
 
-Le Cercle le plus large, qui porte la Raison d'Être de l'ensemble de l'Organisation, est son **«Cercle d'Ancrage»**. Tout Cercle dispose des rôles par défaut suivants :
+Le Cercle le plus large, qui porte la Raison d'Être de l'ensemble de l'Organisation, est son **«Cercle d'Ancrage»**. Tout Cercle dispose d'un **«Leader de Cercle»** : être Leader d'un Rôle, c'est aussi être Leader du Cercle à l'intérieur de ce Rôle. Le Leader de Cercle affecte les Rôles à des personnes volontaires et peut révoquer ces affectations, assume automatiquement les Rôles non pourvus, et peut définir des **«Stratégies»** pour guider la hiérarchisation des priorités. Le Cercle d'Ancrage n'a pas de Leader de Cercle, sauf indication contraire dans une Règle.
 
-**Leader de Cercle** : être Leader d'un Rôle, c'est aussi être Leader du Cercle à l'intérieur de ce Rôle. Le Leader de Cercle affecte les Rôles à des personnes volontaires et peut révoquer ces affectations, assume automatiquement les Rôles non pourvus, et peut définir des **«Stratégies»** pour guider la hiérarchisation des priorités. Le Cercle d'Ancrage n'a pas de Leader de Cercle, sauf indication contraire dans une Règle.
+Tout Cercle peut en outre se doter des rôles suivants :
 
 **Facilitateur** : Raison d'Être : une Gouvernance du Cercle et des pratiques opérationnelles conformes à la Constitution.
 
 **Scribe** : Raison d'Être : gérer les enregistrements et les réunions du Cercle requis par la Constitution.
-
-**Représentant de Cercle** : Raison d'Être : les Tensions pertinentes à traiter dans un Cercle plus large sont acheminées et résolues. Élu par Processus d'Élection Intégrative parmi les Membres du Cercle.
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à ces rôles, mais ne peut pas modifier leur Raison d'Être ni ce que la Constitution leur attribue.
 
@@ -69,7 +67,7 @@ Un processus par défaut est disponible sur la fiche officielle de facilitation.
 
 *Note d'intention : l'article 4 définit ce qu'un Leader de Rôle peut faire sans demander la permission. C'est le coeur opérationnel du système : chacun agit dans son périmètre sans avoir à rendre compte à une hiérarchie. Mais cette liberté a des limites claires : les Règles, les Domaines des autres, et l'argent. L'article prévoit aussi la situation d'urgence, où agir vite prime sur le respect du cadre, à condition d'en assumer les conséquences.*
 
-En tant que Leader de Rôle, vous avez l'autorité de prendre toute action ou décision pour mettre en œuvre la Raison d'Être et les Redevabilités de votre Rôle, tant que vous n'enfreignez pas une Règle de cette Constitution ou d'un Cercle qui contient votre Rôle. Pour agir sur un Domaine que vous ne contrôlez pas, vous devez obtenir l'autorisation de son détenteur. Vous ne pouvez pas dépenser de l'argent ou engager de manière significative des actifs de l'Organisation sans autorisation préalable du Rôle qui les contrôle.
+En tant que Leader de Rôle, vous avez l'autorité de prendre toute action ou décision pour mettre en œuvre la Raison d'Être et les Redevabilités de votre Rôle, tant que vous n'enfreignez pas une Règle de cette Constitution ou d'un Cercle qui contient votre Rôle. Pour agir sur un Domaine que vous ne contrôlez pas, vous devez obtenir l'autorisation de son détenteur. Vous ne pouvez pas dépenser de l'argent ou engager de manière significative des actifs de l'Organisation sans autorisation préalable du Rôle qui les contrôle. Pour obtenir une autorisation, vous pouvez annoncer votre intention par écrit et laisser un délai raisonnable : sans opposition dans ce délai, vous êtes autorisé pour l'action annoncée.
 
 Vous pouvez prendre une **«Initiative d'urgence»** en agissant au-delà de votre autorité ou en enfreignant des Règles si toutes les conditions suivantes sont réunies :
 
@@ -86,10 +84,10 @@ Dans ce cas, vous devez en informer immédiatement les Leaders de Rôle impacté
 
 *Note d'intention : l'article 5 définit comment la structure évolue. Toute modification de Gouvernance (créer un Rôle, modifier une Règle, élire un Facilitateur ou Scribe) passe par un processus unique : la décision intégrative. Ce processus n'est pas du consensus ni du vote majoritaire. Il cherche à intégrer toutes les objections valides sans bloquer l'action. Le processus se tient en asynchrone ou lors d'une réunion de gouvernance.*
 
-Pour modifier la Gouvernance d'un Cercle (créer, modifier ou supprimer un Rôle ou une Règle, ou tenir une élection), il faut utiliser le **«Processus de Décision Intégrative»** décrit sur la fiche de facilitation. Il peut se tenir en asynchrone ou en Réunion de Gouvernance. Seuls les **«Membres du Cercle»** (Partenaires Leaders d'un Rôle dans ce Cercle) y participent.
+Pour modifier la Gouvernance d'un Cercle (créer, modifier ou supprimer un Rôle ou une Règle, ou tenir une élection), les Membres du Cercle utilisent le **«Processus de Décision Intégrative»** décrit sur la fiche de facilitation. Il peut se tenir en asynchrone ou en Réunion de Gouvernance. Seuls les **«Membres du Cercle»** (Partenaires Leaders d'un Rôle dans ce Cercle) y participent.
 
 Une **«Règle»** est un octroi ou une restriction sur l'autorité des Rôles, ou une disposition de fonctionnement spécifique au Cercle.
 
-Le Facilitateur, le Scribe et le Représentant de Cercle sont élus par **«Processus d'Élection Intégrative»** décrit sur la fiche de facilitation.
+Le Facilitateur et le Scribe sont désignés par le Leader de Cercle. À la demande de tout Membre, ils sont élus par **«Processus d'Élection Intégrative»** décrit sur la fiche de facilitation ; l'élection prime alors sur la désignation.
 
-Le Processus de Décision Intégrative et le Processus d'Élection Intégrative ne peuvent pas être modifiés.
+Le Processus de Décision Intégrative et le Processus d'Élection Intégrative ne peuvent pas être modifiés. La fiche officielle de facilitation décrit ces processus ; en cas d'écart, cette Constitution prime.

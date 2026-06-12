@@ -34,7 +34,7 @@ Nous faisons évoluer la structure autour des personnes, plutôt que de chercher
 
 ## 07. Nous faisons évoluer les règles par les règles, et non par le pouvoir
 
-Nous nous engageons à ne modifier notre cadre commun que par les processus que ce cadre lui-même prévoit. Aucune autorité, fût-elle celle des Ratificateurs, ne peut amender les règles du jeu par décision unilatérale. Le système appartient à tous ceux qui le pratiquent.
+Nous nous engageons à ne modifier notre cadre commun que par les processus que ce cadre lui-même prévoit. Tant que ce cadre est en vigueur, nul ne peut s'en affranchir ni le contourner par décision unilatérale. Ceux qui l'ont adopté gardent le pouvoir de l'amender ou de l'abroger : c'est un acte fondateur, exercé par écrit et à découvert, jamais un acte de gestion. Le système appartient à tous ceux qui le pratiquent.
 
 Dans ce même esprit, les décisions qui font évoluer la structure d'un cercle ne peuvent pas être bloquées par des préférences personnelles. Une objection n'est valide que si elle pointe un réel dommage pour la capacité de l'organisation à avancer.
 

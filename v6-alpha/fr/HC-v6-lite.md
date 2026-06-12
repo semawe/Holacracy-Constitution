@@ -1,4 +1,4 @@
-# Constitution Holacracy v6 [Alpha] — Strate 2 (lite)
+# Constitution Holacracy v6 [Alpha] — tier lite
 
 *Cette Constitution distribue l'autorité à travers des Rôles plutôt que de la concentrer dans une hiérarchie de personnes. Chaque Partenaire détient une autorité réelle sur son périmètre et agit selon son propre jugement, sans avoir à demander la permission. C'est ce qu'on appelle le self-management : non pas l'absence de structure, mais davantage de structure, définie plus clairement, à l'intérieur de laquelle chacun est pleinement autonome.*
 
@@ -10,11 +10,11 @@
 
 ## Préambule
 
-*Note d'intention : Le préambule règle la question fondamentale de qui a le dernier mot dans cette organisation. Cette Constitution indique que ce sont les règles elles-mêmes, pas ceux qui les ont adoptées. En ratifiant, ils transfèrent volontairement leur autorité dans un cadre partagé. Et pour tous ceux qui rejoignent ensuite l'organisation, ce cadre est la seule source d'autorité légitime, sans contredire évidemment les contextes légaux ou normatifs en vigueur.*
+*Note d'intention : Le préambule règle la question fondamentale de qui a le dernier mot dans cette organisation. Cette Constitution indique que ce sont les règles elles-mêmes, pas ceux qui les ont adoptées. En ratifiant, ils transfèrent volontairement leur autorité dans un cadre partagé. Et pour tous ceux qui rejoignent ensuite l'organisation, ce cadre est la seule source d'autorité légitime, sans contredire les contextes légaux ou normatifs en vigueur.*
 
 Les **«Ratificateurs»** adoptent la présente **«Constitution»** comme cadre d'autorité officielle de **«l'Organisation»**. Ce faisant, ils transfèrent leur pouvoir de gouvernance et d'exploitation dans les règles qu'elle définit, à l'exception de tout pouvoir qu'ils ne peuvent pas déléguer.
 
-Les Ratificateurs ou leurs successeurs peuvent amender ou abroger cette Constitution par écrit, en s'appuyant sur l'autorité qui leur a permis de l'adopter.
+Les Ratificateurs ou leurs successeurs peuvent amender ou abroger cette Constitution par écrit, en s'appuyant sur l'autorité qui leur a permis de l'adopter. Ce pouvoir s'exerce depuis l'extérieur du cadre : tant que cette Constitution est en vigueur, il ne permet pas d'en enfreindre les règles.
 
 Les règles et fonctionnements préexistants restent en vigueur, mais ne peuvent être étendus ou modifiés qu'à travers les processus de cette Constitution. Ils perdent toute légitimité dès que ces processus produisent quelque chose qui les remplace ou les contredit.
 
@@ -54,6 +54,8 @@ Chaque Rôle contient lui-même un Cercle, qui peut à son tour contenir ses pro
 
 Un Cercle peut déléguer l'un de ses Domaines à l'un de ses Rôles. Le Leader de ce Rôle peut alors contrôler ce Domaine au nom du Cercle et créer des Règles pour le régir. Le Cercle conserve toutefois le droit de définir ses propres Règles sur ce même Domaine, lesquelles priment en cas de conflit. Déléguer un Domaine ne délègue pas l'autorité de dépenser de l'argent ou des actifs, sauf mention explicite.
 
+Un Domaine peut être une **«Source de Vérité»** : un référentiel, un registre ou un ensemble d'informations qui fait foi pour le travail du Cercle. Le contrôler, c'est avoir l'autorité de décider quelle référence fait foi, non de décréter ce qui est vrai. Comme tout Domaine, une Source de Vérité est soumise à l'holarchie : celle d'un Sous-Cercle ne peut pas faire foi contre celle d'un Super-Cercle, qui prime en cas de contradiction.
+
 Le Cercle le plus large, qui porte la Raison d'Être de l'ensemble de l'Organisation, est son **«Cercle d'Ancrage»**. Il détient toutes les autorités et tous les Domaines de l'Organisation et n'a pas de Super-Cercle.
 
 Tout Cercle peut désigner un **«Facilitateur»** et un **«Scribe»**. Le Facilitateur a pour Raison d'Être : "une Gouvernance du Cercle et des pratiques opérationnelles conformes à la Constitution". Le Scribe a pour Raison d'Être : "gérer les enregistrements et les réunions du Cercle requis par la Constitution". Un Cercle peut ajouter des Redevabilités ou des Domaines à ces Rôles, mais ne peut pas modifier leur Raison d'Être ni ce que la Constitution leur attribue.
@@ -71,16 +73,16 @@ Le Cercle d'Ancrage n'a pas de Leader de Cercle, sauf indication contraire dans 
 Un Leader de Cercle :
 
 - peut affecter les Rôles du Cercle à une ou plusieurs personnes volontaires, et révoquer ces affectations à tout moment ;
-- peut limiter une affectation à un contexte spécifique, que l'on appelle Focus. Dans ce cas cette affectation est considérée comme un Rôle distinct pour ce contexte ;
 - assume automatiquement les Rôles non pourvus du Cercle ;
-- peut définir des **«Stratégies»** pour guider la hiérarchisation des priorités dans le Cercle ;
-- peut rediriger vers un autre Rôle du Cercle toute référence externe qui pointe vers le Cercle ou l'un de ses Rôles, sans que cela constitue une modification de Gouvernance.
+- peut définir des **«Stratégies»** pour guider la hiérarchisation des priorités dans le Cercle.
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines au Rôle de Leader de Cercle, puis les retirer. Ces ajouts s'appliquent automatiquement et récursivement à tous les Sous-Cercles. Un Cercle peut également retirer une autorité ou responsabilité du Leader de Cercle en la plaçant sur un autre Rôle, ce qui la supprime du Leader de Cercle, mais il ne peut pas supprimer le Rôle de Leader de Cercle.
 
 ### 1.5 Rôles structurels du Cercle
 
-*Note d'intention : trois rôles élus existent dans tout Cercle qui en a besoin pour le faire fonctionner. Cette section les regroupe parce que leur posture compte au moins autant que leurs Redevabilités. Tous trois servent le Cercle, pas une personne en particulier.*
+*Note d'intention : deux rôles structurels soutiennent tout Cercle qui en a besoin pour fonctionner. Cette section les regroupe parce que leur posture compte au moins autant que leurs Redevabilités. Tous deux servent le Cercle, pas une personne en particulier.*
+
+Le Facilitateur et le Scribe sont désignés par le Leader de Cercle. À la demande de tout Membre du Cercle, le Rôle est pourvu par Processus d'Élection Intégrative (section 5.4), pour un mandat que l'élection fixe. Un Rôle pourvu par élection ne peut être repourvu ou retiré que par une nouvelle élection.
 
 #### Facilitateur
 
@@ -110,22 +112,6 @@ Le Scribe :
 - tient à jour les registres officiels du Cercle (Rôles, Règles, Stratégies) et contrôle ce Domaine ;
 - tranche, à la demande, les conflits d'interprétation de cette Constitution ;
 - peut radier une décision de Gouvernance qui enfreint cette Constitution.
-
-Le Cercle peut ajouter des Redevabilités ou des Domaines à ce Rôle, mais ne peut pas modifier sa Raison d'Être ni ce que la Constitution lui attribue.
-
-#### Représentant de Cercle
-
-*Posture : le Représentant traite uniquement les Tensions que le Cercle n'a pas pu résoudre par sa propre Gouvernance et qui demandent à être traitées dans le Super-Cercle. Ce n'est pas un porte-parole permanent ni un doublon du Leader de Cercle. Il intervient sur ce qui dépasse les moyens internes du Cercle, pas sur tout ce qui sort du Cercle.*
-
-Raison d'Être : "les Tensions pertinentes à traiter dans un Cercle plus large sont acheminées et résolues".
-
-Le Représentant de Cercle :
-
-- écoute les Tensions ressenties par les Membres du Cercle et que le Cercle n'a pas su résoudre par sa propre Gouvernance ;
-- discerne celles qu'il est pertinent et utile de porter au Super-Cercle ;
-- porte ces Tensions dans le Processus de Gouvernance du Super-Cercle pour lever les contraintes qui pèsent sur son Cercle.
-
-Le Représentant de Cercle est élu par Processus d'Élection Intégrative parmi les Membres du Cercle. Il devient Membre du Super-Cercle avec la même autorité de représentation qu'un Leader de Cercle. Une personne qui exerce le Rôle de Leader de Cercle ne peut pas exercer aussi celui de Représentant.
 
 Le Cercle peut ajouter des Redevabilités ou des Domaines à ce Rôle, mais ne peut pas modifier sa Raison d'Être ni ce que la Constitution lui attribue.
 
@@ -199,7 +185,7 @@ En tant que Leader de Rôle, vous avez l'autorité de prendre toute action ou d�
 
 **Règles et Domaines.** Vous ne pouvez pas enfreindre les Règles de votre Rôle ni de tout Cercle qui le contient. Vous pouvez agir librement sur vos propres Domaines. Pour agir sur un Domaine que vous ne contrôlez pas, vous devez obtenir l'autorisation de celui qui le contrôle, soit directement, soit en annonçant votre intention et en laissant un délai raisonnable pour que quelqu'un s'y oppose. Pas d'opposition dans ce délai vaut autorisation pour cette action spécifique.
 
-**Dépenses de ressources.** Vous ne pouvez pas dépenser de l'argent de l'Organisation, ni utiliser ou engager de manière significative l'un de ses actifs (équipements, données, droits, réputation, budget temps) sans autorisation préalable du Rôle qui contrôle ces ressources. Pour obtenir cette autorisation, annoncez votre intention par écrit avec la raison et le Rôle concerné, et laissez un délai raisonnable. Sans blocage dans ce délai, vous êtes autorisé à dépenser dans le cadre déclaré. Le Cercle ou le rôle qui contrôle l'argent peut décider d'une autre méthode pour organiser et contrôler les dépenses de ressources en écrivant une règle dédiée.
+**Dépenses de ressources.** Vous ne pouvez pas dépenser de l'argent de l'Organisation, ni utiliser ou engager de manière significative l'un de ses actifs (équipements, données, droits, réputation, budget temps) sans autorisation préalable du Rôle qui contrôle ces ressources. Pour obtenir cette autorisation, annoncez votre intention par écrit et laissez un délai raisonnable : sans blocage dans ce délai, vous êtes autorisé à dépenser dans le cadre déclaré. Le Cercle ou le rôle qui contrôle l'argent peut décider d'une autre méthode pour organiser et contrôler les dépenses de ressources en écrivant une règle dédiée.
 
 **Initiative d'urgence.** Vous pouvez agir au-delà de votre autorité ou enfreindre des Règles si toutes les conditions suivantes sont réunies :
 
@@ -220,17 +206,13 @@ Pour modifier la Gouvernance d'un Cercle (créer, modifier ou supprimer un Rôle
 
 ### 5.1 Membres du Cercle
 
-Seuls les **«Membres du Cercle»** participent à son Processus de Gouvernance. C'est à dire les Partenaires qui sont Leader d'un rôle dans celui-ci.
+Seuls les **«Membres du Cercle»** participent à son Processus de Gouvernance, c'est-à-dire les Partenaires qui sont Leader d'un Rôle dans celui-ci.
 
-### 5.2 Représentant de Cercle
-
-Tout Membre du Cercle peut demander l'élection d'un **«Représentant de Cercle»** pour représenter son Cercle dans son Super-Cercle, en plus du Leader de Cercle. Le Représentant de Cercle est élu par Processus d'Élection Intégrative. Il devient Membre du Cercle plus large avec la même autorité de représentation qu'un Leader de Cercle.
-
-### 5.3 Les règles
+### 5.2 Les règles
 
 Une Règle peut uniquement s'appliquer sur les Rôles du Cercle pour leur octroyer ou contraindre une autorité, ou réguler l'accès à un Domaine. Elle ne s'applique qu'au Cercle qui la décide, sauf si elle précise explicitement qu'elle s'applique aussi aux Sous-Cercles. Une Règle peut également modifier une règle par défaut de cette Constitution, uniquement là où celle-ci l'autorise explicitement et dans ce cas elle est récursive dans les Sous-Cercles.
 
-### 5.4 Processus de Décision Intégrative
+### 5.3 Processus de Décision Intégrative
 
 Tout Membre du Cercle peut initier une modification de Gouvernance en partageant une **«Proposition»** par écrit avec tous les autres Membres, via un canal validé par le Scribe, ou lors d'une Réunion de Gouvernance organisée par le Scribe.
 
@@ -254,18 +236,19 @@ Lorsque toutes les Objections valides sont intégrées, ou s'il n'y a aucune Obj
 
 Une fiche officielle de facilitation décrit ce processus en détail. Ce processus ne peut pas être modifié.
 
-### 5.5 Processus d'Élection Intégrative
+### 5.4 Processus d'Élection Intégrative
 
-Tout membre peut demander à tout moment la tenue d'une élection pour élire un Facilitateur, un Scribe ou un Représentant de Cercle, et le processus est le suivant :
+Tout Membre peut demander à tout moment la tenue d'une élection pour élire un Facilitateur ou un Scribe. L'élection est conduite par le Facilitateur ou, à défaut, par le Leader de Cercle. Le processus est le suivant :
 
-1. chaque Membre nomme par écrit et en privé le candidat qui lui semble le plus adapté, en indiquant son nom et sa raison ;
-2. les nominations sont partagées avec tous les Membres ;
-3. chaque Membre peut modifier sa nomination en expliquant sa raison ;
-4. le Facilitateur propose le candidat ayant le plus de nominations. En cas d'égalité, il peut proposer le candidat qui s'est lui-même nommé, le titulaire sortant, ou tirer au sort ;
-5. les Membres peuvent soulever des Objections. Dans ce cas, le Facilitateur ouvre une discussion pour la lever, ou revient à l'étape précédente du processus pour proposer un autre candidat.
+1. celui qui conduit l'élection décrit le Rôle et fixe la durée du mandat ;
+2. chaque Membre nomme par écrit et en privé le candidat qui lui semble le plus adapté, en indiquant son nom et sa raison ;
+3. les nominations sont partagées avec tous les Membres ;
+4. chaque Membre peut modifier sa nomination en expliquant sa raison ;
+5. celui qui conduit l'élection propose le candidat ayant le plus de nominations. En cas d'égalité, il peut proposer le candidat qui s'est lui-même nommé, le titulaire sortant, ou tirer au sort ;
+6. les Membres peuvent soulever des Objections. Dans ce cas, celui qui conduit l'élection ouvre une discussion pour les lever, ou revient à l'étape précédente du processus pour proposer un autre candidat.
 
 Une fiche officielle de facilitation décrit ce processus en détail. Ce processus ne peut pas être modifié.
 
-### 5.6 Rupture de Processus
+### 5.5 Rupture de Processus
 
 Une **«Rupture de Processus»** se produit lorsqu'un Cercle adopte un comportement qui enfreint cette Constitution. Le Facilitateur du Cercle ou du Super-Cercle peut la déclarer. Le Facilitateur du Super-Cercle acquiert alors l'autorité de rétablir le processus, y compris en prenant le relais comme Facilitateur ou Scribe, ou en affectant un Leader de Cercle supplémentaire dont les décisions priment sur celles des autres Leaders de Cercle.

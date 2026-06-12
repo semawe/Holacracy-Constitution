@@ -19,8 +19,8 @@ Chaque langue contient le même jeu de trois documents.
 | Fichier | Description | Tier |
 |---|---|---|
 | `HC-v6-principes.md` (fr) · `HC-v6-principles.md` (en) | Déclaration de principes / Declaration of Principles | Transversal |
-| `HC-v6-micro.md` | Constitution version micro / Micro | Tier 1 (~3 pages) |
-| `HC-v6-lite.md` | Constitution version lite / Lite | Tier 2 (~7 pages) |
+| `HC-v6-micro.md` | Constitution version micro / Micro | tier micro (~3 pages) |
+| `HC-v6-lite.md` | Constitution version lite / Lite | tier lite (~7 pages) |
 
 ```
 v6-alpha/
@@ -39,6 +39,7 @@ v6-alpha/
 Le projet explore une architecture en tiers de complexité croissante.
 Chaque tier est autonome et opérationnel.
 Le tier suivant étend le précédent sans le contredire.
+Les trois tiers sont nommés micro, lite et intégral (vocabulaire emprunté à la spirale dynamique ; on évite « strate », qui suggère une hiérarchie).
 
 ## Méthode de traduction (FR → EN)
 
