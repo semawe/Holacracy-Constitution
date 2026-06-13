@@ -1,6 +1,6 @@
-# Declaration of Principles — v6 [candidate 3]
+# Declaration of Principles: v6 [candidate 3]
 
-> Candidate version 3 — Holacracy v6 project, Sémawé.
+> Candidate version 3, Holacracy v6 project, Sémawé.
 
 ---
 
@@ -53,3 +53,7 @@ We believe that truly autonomous people create more value than people waiting fo
 ## 11. We do not freeze the polarities
 
 We recognize that human groups navigate between natural polarities: verticality and horizontality, centralization and distribution, individual and collective. This Constitution does not settle these polarities once and for all. It provides a framework that lets each organization hold them in its own way, without suppressing them.
+
+## 12. No one delegates their accountability
+
+We distinguish directing from answering. A role, its authority, and its means can be handed to another; the duty to answer for it cannot. Every delegation leaves accountability with the one who delegates, and every chain of authority ends, in the end, in a person who answers for it.

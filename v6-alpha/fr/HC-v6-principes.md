@@ -1,6 +1,6 @@
-# Déclaration de principes — v6 [candidat 3]
+# Déclaration de principes : v6 [candidat 3]
 
-> Version candidate 3 — projet Holacracy v6, Sémawé.
+> Version candidate 3, projet Holacracy v6, Sémawé.
 
 ---
 
@@ -53,3 +53,7 @@ Nous croyons que des personnes réellement autonomes créent plus de valeur que 
 ## 11. Nous ne figeons pas les polarités
 
 Nous reconnaissons que les groupes humains naviguent entre des polarités naturelles : verticalité et horizontalité, centralisation et distribution, individuel et collectif. Cette Constitution ne tranche pas ces polarités une fois pour toutes. Elle fournit un cadre qui permet à chaque organisation de les habiter selon ses propres réponses, sans les supprimer.
+
+## 12. Nul ne délègue sa redevabilité
+
+Nous distinguons diriger et répondre. On peut confier un rôle, son autorité et ses moyens ; on ne transfère jamais le fait d'en répondre. Toute délégation laisse la redevabilité chez celui qui délègue, et toute chaîne d'autorité a, à son terme, une personne qui en répond.
