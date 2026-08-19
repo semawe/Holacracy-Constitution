@@ -27,7 +27,7 @@ Un Rôle ou un Cercle est identifié par un nom et est décrit par tout ou parti
 
 En tant que Leader de Rôle, vous êtes responsable de détecter les **«Tensions»** (écarts entre la réalité et le potentiel idéal de votre Rôle) et de prendre des initiatives pour les réduire, de clarifier et suivre votre travail par écrit, et de choisir et réaliser ce qui crée le plus de valeur pour l'Organisation.
 
-Le Cercle le plus large, qui porte la Raison d'Être de l'ensemble de l'Organisation, est son **«Cercle d'Ancrage»**. Tout Cercle dispose d'un **«Leader de Cercle»** : être Leader d'un Rôle, c'est aussi être Leader du Cercle à l'intérieur de ce Rôle. Le Leader de Cercle affecte les Rôles à des personnes volontaires et peut révoquer ces affectations, assume automatiquement les Rôles non pourvus, et peut définir des **«Stratégies»** pour guider la hiérarchisation des priorités. Le Cercle d'Ancrage n'a pas de Leader de Cercle, sauf indication contraire dans une Règle.
+Le Cercle le plus large, qui porte la Raison d'Être de l'ensemble de l'Organisation, est son **«Cercle d'Ancrage»**. Tout Cercle dispose d'un **«Leader de Cercle»** : être Leader d'un Rôle, c'est aussi être Leader de Cercle à l'intérieur de ce Rôle. Le Leader de Cercle affecte les Rôles à des personnes volontaires et peut révoquer ces affectations, assume automatiquement les Rôles non pourvus, et peut définir des **«Stratégies»** pour guider la hiérarchisation des priorités. Le Cercle d'Ancrage n'a pas de Leader de Cercle, sauf indication contraire dans une Règle.
 
 Tout Cercle peut en outre se doter des rôles suivants :
 

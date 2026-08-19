@@ -64,7 +64,7 @@ Tout Cercle peut désigner un **«Facilitateur»** et un **«Scribe»**. Le Faci
 
 *Posture : le Leader de Cercle porte la Raison d'Être de son Rôle. Il n'est pas un manager au sens classique : il ne décide pas du travail des autres, il organise le terrain en affectant les Rôles, en arbitrant les conflits de priorité, et en assumant lui-même tout ce qui n'est pas encore confié à un autre Rôle.*
 
-Être Leader d'un Rôle, c'est aussi être **«Leader du Cercle»** à l'intérieur de ce Rôle. Le Leader de Cercle porte la Raison d'Être de ce Rôle ainsi que toutes ses Redevabilités qui ne sont pas déléguées à d'autres Rôles ou processus au sein du Cercle.
+Être Leader d'un Rôle, c'est aussi être **«Leader de Cercle»** à l'intérieur de ce Rôle. Le Leader de Cercle porte la Raison d'Être de ce Rôle ainsi que toutes ses Redevabilités qui ne sont pas déléguées à d'autres Rôles ou processus au sein du Cercle.
 
 Le Leader de Cercle est Membre de son Cercle, qu'il anime de l'intérieur, et Membre du Super-Cercle, qui contient son Rôle. Il participe aux Processus de Gouvernance des deux.
 
