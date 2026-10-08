@@ -1,4 +1,4 @@
-# Holacracy Constitution v6 — Alpha (work in progress)
+# Holacracy Constitution v6 : Alpha (work in progress)
 
 Documents de travail pour une refonte de la Constitution Holacracy.
 

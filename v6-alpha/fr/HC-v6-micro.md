@@ -1,4 +1,4 @@
-# Constitution Holacracy v6 [Alpha] — tier micro
+# Constitution Holacracy v6 [Alpha] : tier micro
 
 ## Préambule
 

@@ -1,10 +1,21 @@
-# Constitution Holacracy v6 [Alpha] — tier lite
+# Constitution Holacracy v6 [Alpha] : tier lite
 
 *Cette Constitution distribue l'autorité à travers des Rôles plutôt que de la concentrer dans une hiérarchie de personnes. Chaque Partenaire détient une autorité réelle sur son périmètre et agit selon son propre jugement, sans avoir à demander la permission. C'est ce qu'on appelle le self-management : non pas l'absence de structure, mais davantage de structure, définie plus clairement, à l'intérieur de laquelle chacun est pleinement autonome.*
 
 *Ce que la hiérarchie classique appelle « management » (dire aux gens quoi faire, valider leurs décisions) ne disparaît pas : il se transforme. L'autorité de chaque Rôle est définie explicitement et protégée. Nul ne peut empiéter sur elle. Mais nul ne peut non plus l'étendre au-delà de ce que la Gouvernance lui accorde. Les limites claires rendent la liberté réelle.*
 
 *Cette Constitution est un outil pour les organisations qui veulent être pilotées par une raison d'être plutôt que par le jugement d'une seule personne au sommet. Elle ne garantit pas que cela sera facile : c'est une pratique, qui s'apprend en la faisant.*
+
+---
+
+## Sommaire
+
+- **Préambule.** D'où vient l'autorité : les Ratificateurs transfèrent leur pouvoir dans les règles elles-mêmes, qui deviennent la source d'autorité de l'Organisation.
+- **Article 1 : rôles et cercles.** La structure d'autorité repose sur des rôles décrits plutôt que sur des personnes et des organigrammes. L'autorité est distribuée à travers les cercles, et pleine et entière à l'intérieur de chaque rôle.
+- **Article 2 : règles de coopération.** Les devoirs qui rendent l'autorité distribuée vivable : transparence, traitement des demandes, priorisation, et accords relationnels (contraignants ou comportementaux).
+- **Article 3 : réunions tactiques.** La coordination opérationnelle au quotidien : un processus tenu par le Facilitateur, un contenu porté par chaque participant, tous co-responsables de l'avancée du travail.
+- **Article 4 : autorité distribuée.** Ce qu'un Leader de Rôle peut faire sans demander la permission, et les trois limites de cette liberté : les Règles, les Domaines des autres, l'argent, avec l'initiative d'urgence comme soupape.
+- **Article 5 : processus de gouvernance.** Comment la structure évolue : la décision intégrative, qui intègre les objections valides sans bloquer l'action, et l'élection intégrative des rôles structurels.
 
 ---
 
@@ -115,6 +126,8 @@ Le Scribe :
 
 Le Cercle peut ajouter des Redevabilités ou des Domaines à ce Rôle, mais ne peut pas modifier sa Raison d'Être ni ce que la Constitution lui attribue.
 
+*Piste : Rien n'oblige à décrire un Rôle en détail dès sa création. Beaucoup d'organisations commencent avec quelques Rôles larges, puis les affinent au fil des Tensions ressenties. La Gouvernance n'a pas à être complète pour être utile : il lui suffit d'être plus claire que ce qu'elle remplace.*
+
 ---
 
 ## Article 2 : règles de coopération
@@ -156,6 +169,8 @@ En tant que Partenaire, vous pouvez passer des **«Accords Relationnels»** avec
 
 **Accords comportementaux.** Vous pouvez également conclure avec un autre Partenaire des accords sur vos comportements au travail : modes de communication, pratiques de coopération, engagements mutuels sur des actes concrets. Nul ne peut être contraint d'en souscrire un. Ces accords ne peuvent pas contredire les devoirs définis dans cet article. Chaque partie peut y mettre fin à tout moment en informant l'autre. Toute personne facilitant une réunion peut faire respecter ces accords dans ce cadre, s'ils n'entrent pas en conflit avec cette Constitution.
 
+*Piste : Ces devoirs décrivent un minimum, pas un plafond. Beaucoup d'équipes gagnent à rendre explicites, sous forme d'Accords Relationnels, des attentes que cet article laisse au jugement : le délai de réponse considéré comme « prompt », les canaux où l'on s'engage à être joignable, le rythme de partage des indicateurs. Mettre des mots sur l'implicite est souvent ce qui désamorce le plus de Tensions.*
+
 ---
 
 ## Article 3 : réunions tactiques
@@ -174,6 +189,8 @@ Sauf indication contraire d'une Règle d'un Cercle, le processus est le suivant 
 4. **Clôture.** Chaque participant partage brièvement une réflexion de fin de réunion. Aucune réaction.
 
 Une fiche officielle de facilitation décrit ce processus en détail. Chaque Cercle peut décider de son propre processus en écrivant une Règle.
+
+*Piste : La cadence et la forme des Réunions Tactiques n'ont rien d'imposé. Certains Cercles se réunissent chaque semaine, d'autres préfèrent un point court et fréquent ; certains les tiennent en présentiel, d'autres entièrement à distance. Le processus par défaut est un point de départ éprouvé, pas une obligation : un Cercle qui sent qu'il l'étouffe ou qu'il lui manque quelque chose peut écrire le sien.*
 
 ---
 
@@ -195,6 +212,8 @@ En tant que Leader de Rôle, vous avez l'autorité de prendre toute action ou d�
 4. attendre serait significativement plus coûteux que d'agir.
 
 Dans ce cas, vous devez en informer immédiatement les Leaders de Rôle impactés, prendre les mesures correctives demandées, et ne pas réitérer si on vous le demande.
+
+*Piste : Cette Constitution ne fixe ni seuil chiffré de dépense ni durée précise pour le « délai raisonnable ». C'est volontaire : ces repères dépendent de la taille et de la culture de chaque organisation. Un Cercle qui en ressent le besoin les inscrit dans une Règle, plutôt que de les abandonner au jugement implicite de chacun.*
 
 ---
 
@@ -252,3 +271,5 @@ Une fiche officielle de facilitation décrit ce processus en détail. Ce process
 ### 5.5 Rupture de Processus
 
 Une **«Rupture de Processus»** se produit lorsqu'un Cercle adopte un comportement qui enfreint cette Constitution. Le Facilitateur du Cercle ou du Super-Cercle peut la déclarer. Le Facilitateur du Super-Cercle acquiert alors l'autorité de rétablir le processus, y compris en prenant le relais comme Facilitateur ou Scribe, ou en affectant un Leader de Cercle supplémentaire dont les décisions priment sur celles des autres Leaders de Cercle.
+
+*Piste : Le Processus de Décision Intégrative se vit très différemment d'une organisation à l'autre : certaines le tiennent presque entièrement en asynchrone, d'autres réservent leurs réunions de gouvernance à ce seul usage. Démarrer en réunion le temps que le processus s'incarne, puis glisser vers l'asynchrone à mesure que la confiance s'installe, est un chemin courant.*

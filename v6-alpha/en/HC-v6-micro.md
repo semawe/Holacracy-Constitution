@@ -1,8 +1,8 @@
-# Holacracy Constitution v6 [Alpha] — Micro tier
+# Holacracy Constitution v6 [Alpha]: Micro tier
 
 ## Preamble
 
-*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority — without overriding the legal and regulatory frameworks that apply.*
+*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority, without overriding the legal and regulatory frameworks that apply.*
 
 The **"Ratifiers"** adopt this **"Constitution"** as the formal authority structure of the **"Organization"**. In so doing, they cede their power to govern and run the Organization into the rules it defines, except for any powers they lack the authority to delegate. The Ratifiers or their successors may amend or repeal this Constitution in writing. That power operates from outside the framework: as long as this Constitution is in force, it does not permit breaking its rules.
 

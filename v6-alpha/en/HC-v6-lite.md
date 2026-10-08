@@ -1,4 +1,4 @@
-# Holacracy Constitution v6 [Alpha] — Lite tier
+# Holacracy Constitution v6 [Alpha]: Lite tier
 
 *This Constitution distributes authority across Roles rather than concentrating it in a hierarchy of people. Each Partner holds real authority within their boundaries and acts on their own judgment, without having to ask permission. This is what we call self-management: not the absence of structure, but more structure, more clearly defined, within which each person is fully autonomous.*
 
@@ -8,9 +8,20 @@
 
 ---
 
+## Contents
+
+- **Preamble.** Where authority comes from: the Ratifiers transfer their power into the rules themselves, which become the Organization's source of authority.
+- **Article 1: Roles and Circles.** The authority structure rests on described roles rather than on people and conventional org charts. Authority is distributed across circles, and full and complete within each role.
+- **Article 2: Rules of Cooperation.** The duties that make distributed authority livable: transparency, processing requests, prioritization, and relational agreements (binding or behavioral).
+- **Article 3: Tactical Meetings.** Day-to-day operational coordination: a process held by the Facilitator, content brought by each participant, all co-responsible for moving the work forward.
+- **Article 4: Distributed Authority.** What a Role Lead may do without asking permission, and the three limits on that freedom: the Rules, others' Domains, and money, with emergency action as a safety valve.
+- **Article 5: Governance Process.** How the structure evolves: integrative decision-making, which integrates valid objections without blocking action, and integrative election of the structural roles.
+
+---
+
 ## Preamble
 
-*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority — without overriding the legal and regulatory frameworks that apply.*
+*Intent note: The preamble settles the fundamental question of who has the final say in this organization. This Constitution answers that it is the rules themselves, not those who adopted them. In ratifying, they voluntarily transfer their authority into a shared framework. And for all who later join the organization, that framework is the only legitimate source of authority, without overriding the legal and regulatory frameworks that apply.*
 
 The **"Ratifiers"** hereby adopt this **"Constitution"** as the formal authority structure of the **"Organization"**. In so doing, they cede their power to govern and run the Organization into the rules it defines, except for any powers they lack the authority to delegate.
 
@@ -113,6 +124,8 @@ The Secretary:
 
 A Circle may add Accountabilities or Domains to this Role, but may not amend its Purpose nor what the Constitution assigns it.
 
+*Going further: Nothing requires describing a Role in detail the moment it is created. Many organizations start with a few broad Roles, then refine them as Tensions are felt. Governance need not be complete to be useful: it only needs to be clearer than what it replaces.*
+
 ---
 
 ## Article 2: Rules of Cooperation
@@ -140,7 +153,7 @@ You must promptly process requests from other Role Leads:
 You must prioritize your attention according to these principles:
 
 - process inbound requests before executing your own work. You may batch your responses at a convenient time of day, as long as you remain prompt;
-- attend Tactical and Governance Meetings, ahead of executing your own work, when explicitly asked to for a specific meeting — unless you already have plans scheduled at that time;
+- attend Tactical and Governance Meetings, ahead of executing your own work, when explicitly asked to for a specific meeting, unless you already have plans scheduled at that time;
 - honor the official Strategies and priorities of your Circles, treating them as more important than your own judgment of what matters;
 - read any deadline as a prioritization signal, not as an absolute obligation to deliver regardless of the consequences.
 
@@ -153,6 +166,8 @@ As a Partner, you may make **"Relational Agreements"** with other Partners to re
 **Binding agreements.** Any commitment you have entered into in writing with the Organization, and whose terms provide no unilateral exit (employment contract, internal regulations, signed engagement letter), remains fully enforceable under this Constitution. You have a duty to honor it. These agreements prevail over the other provisions of this article in the event of a conflict.
 
 **Behavioral agreements.** You may also make agreements with another Partner about your behavior at work: modes of communication, cooperation practices, mutual commitments to concrete acts. No one may be compelled to enter one. These agreements may not contradict the duties defined in this article. Either party may end one at any time by notifying the other. Anyone facilitating a meeting may enforce these agreements within it, as long as they do not conflict with this Constitution.
+
+*Going further: These duties describe a floor, not a ceiling. Many teams benefit from making explicit, as Relational Agreements, expectations that this article leaves to judgment: the response time considered "prompt," the channels on which one commits to being reachable, the rhythm of sharing metrics. Putting words to the implicit is often what defuses the most Tensions.*
 
 ---
 
@@ -173,6 +188,8 @@ Unless a Circle's Policy says otherwise, the process is as follows:
 
 A default facilitation guide describes this process in detail. Each Circle may decide on its own process by writing a Policy.
 
+*Going further: The cadence and form of Tactical Meetings are in no way imposed. Some Circles meet weekly, others prefer a short, frequent check-in; some hold them in person, others entirely remotely. The default process is a proven starting point, not an obligation: a Circle that feels stifled by it, or that finds something missing, may write its own.*
+
 ---
 
 ## Article 4: Distributed Authority
@@ -181,7 +198,7 @@ A default facilitation guide describes this process in detail. Each Circle may d
 
 As a Role Lead, you have the authority to take any action or make any decision to enact your Role's Purpose and Accountabilities, as long as you don't break a Policy of this Constitution or of any Circle that contains it.
 
-**Policies and Domains.** You may not break the Policies of your Role or of any Circle that contains it. You may act freely on your own Domains. To impact a Domain you don't control, you must get permission from whoever controls it — either directly, or by announcing your intent and allowing a reasonable time for anyone to object. No objection within that time counts as permission for that specific action.
+**Policies and Domains.** You may not break the Policies of your Role or of any Circle that contains it. You may act freely on your own Domains. To impact a Domain you don't control, you must get permission from whoever controls it, either directly or by announcing your intent and allowing a reasonable time for anyone to object. No objection within that time counts as permission for that specific action.
 
 **Spending resources.** You may not spend the Organization's money, nor materially use or commit any of its assets (equipment, data, rights, reputation, or time), without prior authorization from the Role that controls those resources. To get this authorization, announce your intent in writing and allow a reasonable time: if nothing blocks it within that time, you are authorized to spend within the stated terms. The Circle or Role that controls the money may set another method for organizing and controlling resource spending by writing a dedicated policy.
 
@@ -194,6 +211,8 @@ As a Role Lead, you have the authority to take any action or make any decision t
 
 In that case, you must immediately inform the affected Role Leads, take the corrective steps requested, and refrain from doing the same again if asked.
 
+*Going further: This Constitution sets neither a numeric spending threshold nor a precise duration for the "reasonable period." This is deliberate: such markers depend on the size and culture of each organization. A Circle that needs them writes them into a Policy, rather than leaving them to each person's implicit judgment.*
+
 ---
 
 ## Article 5: Governance Process
@@ -204,7 +223,7 @@ To change a Circle's Governance (creating, amending, or removing a Role or a Pol
 
 ### 5.1 Circle Members
 
-Only the **"Circle Members"** take part in its Governance Process — that is, the Partners who serve as Role Lead for a Role within it.
+Only the **"Circle Members"** take part in its Governance Process, that is, the Partners who serve as Role Lead for a Role within it.
 
 ### 5.2 Policies
 
@@ -250,3 +269,5 @@ A default facilitation guide describes this process in detail. This process may 
 ### 5.5 Process Breakdown
 
 A **"Process Breakdown"** occurs when a Circle adopts a pattern of behavior that violates this Constitution. The Facilitator of the Circle or of the Super-Circle may declare one. The Facilitator of the Super-Circle then gains the authority to restore due process, including by taking over as Facilitator or Secretary, or by assigning an additional Circle Lead whose decisions prevail over those of the other Circle Leads.
+
+*Going further: Integrative Decision-Making is lived very differently from one organization to another: some run it almost entirely asynchronously, others reserve their governance meetings for this sole purpose. Starting in meetings while the process takes root, then shifting toward asynchronous work as trust settles, is a common path.*
