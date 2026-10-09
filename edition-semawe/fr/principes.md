@@ -1,4 +1,4 @@
-# Déclaration de principes · édition Sémawé (candidat 3)
+# Déclaration de principes : édition Sémawé [candidat 3]
 
 > Version candidate 3, édition Sémawé.
 

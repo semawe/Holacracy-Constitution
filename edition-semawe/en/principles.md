@@ -1,4 +1,4 @@
-# Declaration of Principles · Sémawé edition (candidate 3)
+# Declaration of Principles: Sémawé edition [candidate 3]
 
 > Candidate version 3, Sémawé edition.
 
