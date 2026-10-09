@@ -1,4 +1,4 @@
-# Constitution Holacracy v6 [Alpha] : tier lite
+# Constitution Lite · édition Sémawé
 
 *Cette Constitution distribue l'autorité à travers des Rôles plutôt que de la concentrer dans une hiérarchie de personnes. Chaque Partenaire détient une autorité réelle sur son périmètre et agit selon son propre jugement, sans avoir à demander la permission. C'est ce qu'on appelle le self-management : non pas l'absence de structure, mais davantage de structure, définie plus clairement, à l'intérieur de laquelle chacun est pleinement autonome.*
 

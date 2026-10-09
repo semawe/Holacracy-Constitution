@@ -1,6 +1,6 @@
-# Déclaration de principes : v6 [candidat 3]
+# Déclaration de principes · édition Sémawé (candidat 3)
 
-> Version candidate 3, projet Holacracy v6, Sémawé.
+> Version candidate 3, édition Sémawé.
 
 ---
 

@@ -3,7 +3,7 @@
 Format machine du texte composable. **Source de vérité du fond** : ce dossier
 vit dans le repo `holacracy-constitution` ; l'app (`constitution-composer`) le
 *consomme*, elle ne le réinvente pas. Le texte canonique reste les `.md` de
-`v6-alpha/` ; ce JSON en est l'encodage applicatif.
+`edition-semawe/` ; ce JSON en est l'encodage applicatif.
 
 ## Principe
 
@@ -14,7 +14,7 @@ couleur à l'écran et son appartenance (socle / bloc retirable / extension / ap
 
 ## Modèle V1 — on part de la *Lite*, on retire
 
-V1 est bâtie sur la **Lite** (`v6-alpha/fr/HC-v6-lite.md`) : un **socle
+V1 est bâtie sur la **Lite** (`edition-semawe/fr/lite.md`) : un **socle
 incompressible** (les `block`, `always: true`) plus des **blocs retirables**
 **cochés par défaut**. Un bloc retirable est techniquement un `module` de tier
 `retirable` portant `default: true` : présent au départ (la Lite complète),

@@ -1,6 +1,9 @@
-# Holacracy Constitution v6 : Alpha (work in progress)
+# Constitution · édition Sémawé (version de travail)
 
-Documents de travail pour une refonte de la Constitution Holacracy.
+Version de travail, publiée par Sémawé, d'une Constitution dérivée de la
+Constitution Holacracy officielle. **Ce n'est pas une version officielle de la
+Constitution Holacracy**, ni sa prochaine version : HolacracyOne seule publie et
+numérote la Constitution officielle.
 
 **Disponible en français et en anglais.** La version française est la langue
 de conception ; la version anglaise reconstruit le corps normatif à partir de
@@ -9,8 +12,8 @@ terminologie native de la communauté.
 
 ## Statut
 
-Alpha public. Ces documents sont des versions candidates ouvertes à la discussion.
-Ils ne constituent pas une version officielle de la Constitution Holacracy.
+Versions candidates ouvertes à la discussion. Elles alimentent le
+[Constitution Composer](https://constitution-composer.com), un outil Sémawé.
 
 ## Documents
 
@@ -18,25 +21,25 @@ Chaque langue contient le même jeu de trois documents.
 
 | Fichier | Description | Tier |
 |---|---|---|
-| `HC-v6-principes.md` (fr) · `HC-v6-principles.md` (en) | Déclaration de principes / Declaration of Principles | Transversal |
-| `HC-v6-micro.md` | Constitution version micro / Micro | tier micro (~3 pages) |
-| `HC-v6-lite.md` | Constitution version lite / Lite | tier lite (~7 pages) |
+| `principes.md` (fr) · `principles.md` (en) | Déclaration de principes / Declaration of Principles | Transversal |
+| `micro.md` | Constitution Micro | tier micro (~3 pages) |
+| `lite.md` | Constitution Lite | tier lite (~7 pages) |
 
 ```
-v6-alpha/
+edition-semawe/
 ├── fr/   ← version française (langue de conception)
-│   ├── HC-v6-principes.md
-│   ├── HC-v6-micro.md
-│   └── HC-v6-lite.md
+│   ├── principes.md
+│   ├── micro.md
+│   └── lite.md
 └── en/   ← version anglaise
-    ├── HC-v6-principles.md
-    ├── HC-v6-micro.md
-    └── HC-v6-lite.md
+    ├── principles.md
+    ├── micro.md
+    └── lite.md
 ```
 
 ## Architecture
 
-Le projet explore une architecture en tiers de complexité croissante.
+Les documents explorent une architecture en tiers de complexité croissante.
 Chaque tier est autonome et opérationnel.
 Le tier suivant étend le précédent sans le contredire.
 Les trois tiers sont nommés micro, lite et intégral (vocabulaire emprunté à la spirale dynamique ; on évite « strate », qui suggère une hiérarchie).
@@ -46,9 +49,9 @@ Les trois tiers sont nommés micro, lite et intégral (vocabulaire emprunté à 
 - **Corps normatif** (préambule, articles, sections) : reconstruit depuis la
   Constitution 5.0 officielle anglaise, à la longueur et au contenu sémantique
   de la version française, pour éviter toute distorsion du langage communautaire.
-- **Notes d'intention, postures et ajouts v6** (accords contraignants /
-  comportementaux, etc.) : absents de la v5, traduits directement depuis le
-  français.
+- **Notes d'intention, postures et ajouts propres à cette édition** (accords
+  contraignants / comportementaux, etc.) : absents de la 5.0, traduits
+  directement depuis le français.
 
 ## Licence et attribution
 

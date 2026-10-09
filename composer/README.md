@@ -10,7 +10,7 @@ de composition de Constitution (vision Notion :
 
 Le fond est la **source de vérité** ; l'app (`dev/constitution-composer`) consomme
 ce JSON, elle ne le réécrit pas. Le texte canonique humain reste les `.md` de
-`../v6-alpha/`.
+`../edition-semawe/`.
 
 ## Méthode : tranche verticale end-to-end
 
@@ -26,7 +26,7 @@ On valide l'accouplement fond ↔ app sur un petit périmètre réel, jouable, p
 
 ## Garanties de synchronisation
 
-Le dépôt public publie ce dossier avec `v6-alpha/`. Le Composer le vendorise en
+Le dépôt public publie ce dossier avec `edition-semawe/`. Le Composer le vendorise en
 sous-module : `npm run fond:check` compare ces quatre fichiers octet pour octet
 et génère les principes depuis les Markdown canoniques. Toute divergence fait
 échouer la CI.

@@ -1,4 +1,4 @@
-# Holacracy Constitution v6 [Alpha]: Micro tier
+# Micro Constitution · Sémawé edition
 
 ## Preamble
 
