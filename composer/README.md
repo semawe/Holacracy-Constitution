@@ -1,8 +1,8 @@
 # Composer de Constitution — fond structuré
 
 Ce dossier porte le **modèle de données** qui alimente l'application interactive
-de composition de Constitution (vision Notion :
-[App de configuration à la carte](https://app.notion.com/p/36e9776be4618197a48df9b1bb302911)).
+de composition de Constitution (projet ERP
+[Constitution Holacracy 6.0](https://erp.semawe.fr/pilotage/projets/6f2c67d1-a083-4ae8-8153-dc2dc655e10e)).
 
 - [`SCHEMA.md`](SCHEMA.md) — format machine (blocs de socle, modules, insertions, remplacements obligatoires, dépendances).
 - [`constitution.fr.json`](constitution.fr.json) et [`constitution.en.json`](constitution.en.json) — Constitution structurée bilingue.

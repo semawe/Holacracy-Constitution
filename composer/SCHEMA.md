@@ -104,4 +104,4 @@ remplacement** (`fallback`), affichée en mode *warning* quand elle se déclench
 
 La version composée (socle + insertions résolues, dans l'ordre) est sérialisable
 en Markdown puis en PDF. L'attribution CC BY-SA 4.0 et la mention « version non
-officielle » sont ajoutées au pied de chaque export (cf. vision Notion).
+officielle » sont ajoutées au pied de chaque export.
